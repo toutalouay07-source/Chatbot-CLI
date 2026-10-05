@@ -44,4 +44,4 @@ Tape ton message et appuie sur Entrée pour discuter avec le modèle.
 
 **Louay** 
 
-- GitHub : [@TON-PSEUDO](https://github.com/toutalouay07-source)
+- GitHub : [@louay](https://github.com/toutalouay07-source)
